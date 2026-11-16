@@ -1,0 +1,21 @@
+TRONDHEIM NATT – OPERASJON YOUPLUS
+Åpne index.html i nettleseren. Ingen installasjon nødvendig.
+
+WASD / piltaster: gå eller kjør. Shift: løp.
+E: gå inn i / ut av en bil som står stille.
+Space: hent last, selg, eller invester ved Youplus.
+M: bykart. Escape: pause. Mobil: knappene på skjermen.
+
+Rosa S: hent fem kasser fiktiv Sweaty-energidrikk.
+Gul K: selg til storkunden for 12,5 millioner. Han flytter etter hvert salg.
+Politiet jager deg når du er etterlyst. Hold avstand; ved arrestasjon mister du pengene og lasten.
+Tjen 100 millioner og dra til Youplus (Y) for å investere og vinne.
+Fremdrift lagres automatisk i denne nettleseren.
+
+GITHUB PAGES
+Pakk ut ZIP-filen. Last opp index.html, style.css, game.js og team0.png til team3.png i roten av repositoryet.
+GitHub Settings > Pages: publiser fra main og /(root).
+
+Dette er en fiktiv, humoristisk arkadehistorie. Kartet er forenklet, ikke en Google Maps-kopi.
+Figurportretter: genererte tegneserietolkninger med referanse fra https://youplus.no/om-oss/
+Gateplasseringer er forenklet med utgangspunkt i Midtbyen. Ingen ekte kjøretøymerker, arbeidsgivere eller personer står bak spillet.
